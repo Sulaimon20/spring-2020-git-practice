@@ -3,3 +3,5 @@ green
 black
 git
 pink
+purple
+apricot
